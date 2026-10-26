@@ -1,2 +1,0 @@
-# aibuildrs
-Aibuildrs local guides
