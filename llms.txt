@@ -1,9 +1,10 @@
 # Aibuildrs
 
-> Aibuildrs is a Business management consultant. We find what's costing you time and money in your business, then fix it with AI Your team wastes hours daily on repetitive tasks while missing profitable opportunities. We identify these problems and build custom AI solutions that increase your revenue and cut your costs. We unde
+> Aibuildrs is a Business management consultant serving T9 R4 WELS, Maine. We find what's costing you time and money in your business, then fix it with AI Your team wastes hours daily on repetitive tasks while missing profitable opportunities. We identify these problems and build custom AI solutions that increase your revenue and cut your costs. We unde
 
 ## Contact
 - Phone: +1718-568-7112
+- Address: T9 R4 WELS, ME
 - Website: https://www.aibuildrs.com/
 - Google Maps: https://www.google.com/maps?cid=9879348364655723216
 
@@ -26,6 +27,9 @@
 - [Answer Engine Optimization Services for Your Business](https://local-business-guides.github.io/aibuildrs/answer-engine-optimization-services/): Answer engine optimization services to make your business easier to find in your local market.
 - [AI Visibility Services That Reflect Your Business](https://local-business-guides.github.io/aibuildrs/ai-visibility-services/): AI visibility services to help customers understand what your business offers in your local market.
 
+## Newsroom
+- [Aibuildrs Shares New Guide on the Best AI SEO Agency](https://local-business-guides.github.io/aibuildrs/news/2026-10-27-aibuildrs-shares-new-guide-on-the-best-ai-seo-agen/): Aibuildrs released a guide on the best AI SEO agency, along with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-10-27)
+
 ## Pages
 - [AI SEO Agency](https://local-business-guides.github.io/aibuildrs/): Find the work draining your team’s time and use custom AI solutions to help reduce delays and costs. Call +1718-568-7112.
 - [About and Contact Aibuildrs](https://local-business-guides.github.io/aibuildrs/about/): About Aibuildrs.
@@ -33,3 +37,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/aibuildrs/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/aibuildrs/news/rss.xml)
