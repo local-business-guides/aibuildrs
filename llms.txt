@@ -16,8 +16,8 @@
 - Software company
 
 ## Guides
-- [Choosing an ai seo agency near me](https://local-business-guides.github.io/aibuildrs/ai-seo-agency-near-me/): ai seo agency near me for less manual SEO work and a marketing process that fits your business.
 - [Questions to Ask an AI SEO agency](https://local-business-guides.github.io/aibuildrs/ai-seo-agency/): AI SEO agency guidance for assessing workflows and finding useful marketing automation
+- [Choosing an ai seo agency near me](https://local-business-guides.github.io/aibuildrs/ai-seo-agency-near-me/): ai seo agency near me for less manual SEO work and a marketing process that fits your business.
 - [How to Choose the best ai seo agency](https://local-business-guides.github.io/aibuildrs/best-ai-seo-agency/): best ai seo agency for practical marketing automation and better use of your team's time
 - [How to choose a local ai seo agency](https://local-business-guides.github.io/aibuildrs/local-ai-seo-agency/): local ai seo agency guidance to simplify SEO tasks and shape marketing around your service area.
 - [Choosing a top rated ai seo agency for your business](https://local-business-guides.github.io/aibuildrs/top-rated-ai-seo-agency/): top rated ai seo agency support to improve marketing workflows. City details were not provided.
@@ -28,6 +28,7 @@
 - [AI Visibility Services That Reflect Your Business](https://local-business-guides.github.io/aibuildrs/ai-visibility-services/): AI visibility services to help customers understand what your business offers in your local market.
 
 ## Newsroom
+- [Aibuildrs Shares New Information on Marketing Agency T9 R4 WELS](https://local-business-guides.github.io/aibuildrs/news/2026-11-03-aibuildrs-shares-new-information-on-marketing/): Aibuildrs shared new information about marketing agency T9 R4 WELS this week, with a YouTube video, podcast episode and SoundCloud audio. (2026-11-03)
 - [Aibuildrs Releases Guide on AI SEO Agency Near Me](https://local-business-guides.github.io/aibuildrs/news/2026-10-31-aibuildrs-releases-guide-on-ai-seo-agency-near-me/): Aibuildrs released a guide on AI SEO agency searches, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
 - [Aibuildrs Shares New Guide on the Best AI SEO Agency](https://local-business-guides.github.io/aibuildrs/news/2026-10-27-aibuildrs-shares-new-guide-on-the-best-ai-seo-agen/): Aibuildrs released a guide on the best AI SEO agency, along with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-10-27)
 
@@ -39,3 +40,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/aibuildrs/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/aibuildrs/news/rss.xml)
+- [Main resource site](https://aibuildrs-ai-visibility-maine.warmape5.chatgpt.site)
