@@ -28,6 +28,7 @@
 - [AI Visibility Services That Reflect Your Business](https://local-business-guides.github.io/aibuildrs/ai-visibility-services/): AI visibility services to help customers understand what your business offers in your local market.
 
 ## Newsroom
+- [Aibuildrs Shares Local SEO Information for T9 R4 WELS](https://local-business-guides.github.io/aibuildrs/news/2026-11-17-aibuildrs-shares-local-seo-information-for-t9-r4/): Aibuildrs has published information about local SEO agency T9 R4 WELS in a YouTube video, a podcast episode and on SoundCloud. (2026-11-17)
 - [Aibuildrs Shares New Information on AI Marketing Agency T9 R4 WELS](https://local-business-guides.github.io/aibuildrs/news/2026-11-16-aibuildrs-shares-new-information-on-ai-marketing/): Aibuildrs has shared information about its AI-focused business approach in a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-16)
 - [Aibuildrs Posts AI Visibility Services Material for T9 R4 WELS](https://local-business-guides.github.io/aibuildrs/news/2026-11-16-aibuildrs-posts-ai-visibility-services-material/): Aibuildrs has published information about its AI visibility services, with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-16)
 - [Aibuildrs Shares Information on AEO Agency T9 R4 WELS](https://local-business-guides.github.io/aibuildrs/news/2026-11-16-aibuildrs-shares-information-on-aeo-agency-t9-r4/): Aibuildrs shared new information about AEO agency T9 R4 WELS this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-16)
@@ -43,4 +44,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/aibuildrs/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/aibuildrs/news/rss.xml)
-- [Main resource site](https://aibuildrs-ai-visibility-maine.warmape5.chatgpt.site)
+- [Main resource site](https://aibuildrs-ai-visibility-maine.localbusinesses1.chatgpt.site/about/)
