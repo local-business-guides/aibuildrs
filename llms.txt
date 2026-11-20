@@ -51,4 +51,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/aibuildrs/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/aibuildrs/news/rss.xml)
-- [Main resource site](https://aibuildrs-ai-visibility-maine.localbusinesses1.chatgpt.site/news/2026-11-17-aibuildrs-publishes-guide-to-local-seo-agency-t9-r4-wels)
+- [Main resource site](https://aibuildrs-ai-visibility-maine.localbusinesses1.chatgpt.site/ai-seo-agency-t9-r4-wels)
